@@ -46,19 +46,19 @@ largest aggregate popularity
 
    All data sourced from Forage. There are three tables in CSV form, namely reaction type score data, content data, and reaction
 
-3. Data Cleaning
+2. Data Cleaning
 
     Merge table, then identify and handling missing value, duplicated data, and remoce unrelated columns for analysis
 
-5. Data Modeling
+3. Data Modeling
 
    Create a final data set, then figure out the top 5 content categories, monthly most post, and top reaction. I did everything using a pivot table, then visualized it. For interactive visualization, you can access it in the file I attached
 
-7. Uncover Insights
+4. Uncover Insights
  
    ![image](https://github.com/user-attachments/assets/2da7b2ee-8233-4118-8136-c35af50af161)
 
-8. Summary
+# Summary
  
   * Positive Engagement: Content generally elicits positive reactions and sentiments, with topics
  like travel, science, and lifestyle drawing enthusiastic responses.
